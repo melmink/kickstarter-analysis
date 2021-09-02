@@ -12,12 +12,12 @@ Analysing and presenting the data from the crowdfunding website will help Luoise
 ### Analysis of Outcomes Based on Launch Date
 A formula was used to convert the dates columns from Unix timestamps into a readable format. Another formula was then used to extract the year from the dates the campaigns were created in a new column titled **Year**. A pivot table was then created to analyze the data in the worksheet. Filters were added for two columns from the table, **Parent Category** and **Years**. The rows for the table utilized the **Date Created Conversion** column and are grouped to display by month. The values in the table are a count of the **Outcomes** column. **Outcomes** was also used for the columns in the table and are sorted in descending order. A line chart was then created, displayed below, to visualize the relationship between outcomes and launch month.
 
-![Theatre Outcomes Based on Launch Date](/assets/resources/Theater_Outcomes_vs_Launch.png)
+![Theatre Outcomes Based on Launch Date](/kickstarter-analysis/resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 A formula was used to collect the outcome and goal data from the Kickstarter data. A new sheet was created and populated with data for goal amounts, numbers of outcomes including a total, and percentages of outcomes. A line chart was then created to visualize a comparison of the outcomes.
 
-![Outcomes Based on Goals](/assets/resources/Outcomes_vs_Goals.png)
+![Outcomes Based on Goals](/kickstarter-analysis/resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 There were a few challenges encountered that were overcome using the resources available in the Excel software. The dates in the data needed to be converted so that they were readable. There was also a need to seperate the categories from the subcatagories.
