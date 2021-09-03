@@ -17,7 +17,7 @@ A formula was used to convert the dates columns from Unix timestamps into a read
 ### Analysis of Outcomes Based on Goals
 A formula was used to collect the outcome and goal data from the Kickstarter data. A new sheet was created and populated with data for goal amounts, numbers of outcomes including a total, and percentages of outcomes. A line chart was then created to visualize a comparison of the outcomes.
 
-![Outcomes Based on Goals](/assets/resources/Outcomes_vs_Goals.png)
+![Outcomes Based on Goals](kickstarter-analysis/resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 There were a few challenges encountered that were overcome using the resources available in the Excel software. The dates in the data needed to be converted so that they were readable. There was also a need to seperate the categories from the subcatagories.
